@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/plsql-doc-agent/static/css/main.31d6cfe0.css",
+    "main.js": "/plsql-doc-agent/static/js/main.1d232d74.js",
+    "static/js/453.8b98c272.chunk.js": "/plsql-doc-agent/static/js/453.8b98c272.chunk.js",
+    "index.html": "/plsql-doc-agent/index.html",
+    "main.1d232d74.js.map": "/plsql-doc-agent/static/js/main.1d232d74.js.map",
+    "453.8b98c272.chunk.js.map": "/plsql-doc-agent/static/js/453.8b98c272.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1d232d74.js"
+  ]
+}
